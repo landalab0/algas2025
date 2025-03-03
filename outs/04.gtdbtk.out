@@ -1,0 +1,123 @@
+[2024-11-27 17:36:46] INFO: GTDB-Tk v2.1.1
+[2024-11-27 17:36:46] INFO: gtdbtk classify_wf --genome_dir data/final_genomes/ --out_dir results/04.gtdbtk/ -x fasta --cpus 40
+[2024-11-27 17:36:46] INFO: Using GTDB-Tk reference data version r207: /data/bases/gtdbtk
+[2024-11-27 17:36:46] ERROR: Invalid genome ID: Oceanicola_sp._MCTG156(1a)_APOce
+[2024-11-27 17:36:46] ERROR: The following characters are invalid: , = ) ( ;   ] [
+[2024-11-27 17:36:46] ERROR: Invalid genome ID: Oceanicola_sp._MCTG156(1a)_APOce
+[2024-11-27 17:36:46] ERROR: Controlled exit resulting from an unrecoverable error or warning.
+[2024-11-27 17:45:45] INFO: GTDB-Tk v2.1.1
+[2024-11-27 17:45:45] INFO: gtdbtk classify_wf --genome_dir data/final_genomes/ --out_dir results/04.gtdbtk/ -x fasta --cpus 40
+[2024-11-27 17:45:45] INFO: Using GTDB-Tk reference data version r207: /data/bases/gtdbtk
+[2024-11-27 17:45:45] INFO: Identifying markers in 31 genomes with 40 threads.
+[2024-11-27 17:45:46] TASK: Running Prodigal V2.6.3 to identify genes.
+[2024-11-27 17:46:59] INFO: Completed 31 genomes in 1.22 minutes (25.43 genomes/minute).
+[2024-11-27 17:46:59] TASK: Identifying TIGRFAM protein families.
+[2024-11-27 17:47:11] INFO: Completed 31 genomes in 12.24 seconds (2.53 genomes/second).
+[2024-11-27 17:47:11] TASK: Identifying Pfam protein families.
+[2024-11-27 17:47:12] INFO: Completed 31 genomes in 0.76 seconds (40.84 genomes/second).
+[2024-11-27 17:47:12] INFO: Annotations done using HMMER 3.1b2 (February 2015).
+[2024-11-27 17:47:12] TASK: Summarising identified marker genes.
+[2024-11-27 17:47:13] INFO: Completed 31 genomes in 1.03 seconds (30.08 genomes/second).
+[2024-11-27 17:47:13] INFO: Done.
+[2024-11-27 17:47:13] INFO: Aligning markers in 31 genomes with 40 CPUs.
+[2024-11-27 17:47:14] INFO: Processing 31 genomes identified as bacterial.
+[2024-11-27 17:47:38] INFO: Read concatenated alignment for 62,291 GTDB genomes.
+[2024-11-27 17:47:38] TASK: Generating concatenated alignment for each marker.
+[2024-11-27 17:47:41] INFO: Completed 31 genomes in 0.21 seconds (149.31 genomes/second).
+[2024-11-27 17:47:42] TASK: Aligning 120 identified markers using hmmalign 3.1b2 (February 2015).
+[2024-11-27 17:47:48] INFO: Completed 120 markers in 2.78 seconds (43.21 markers/second).
+[2024-11-27 17:47:48] TASK: Masking columns of bacterial multiple sequence alignment using canonical mask.
+[2024-11-27 17:49:42] INFO: Completed 62,322 sequences in 1.90 minutes (32,732.86 sequences/minute).
+[2024-11-27 17:49:42] INFO: Masked bacterial alignment from 41,084 to 5,036 AAs.
+[2024-11-27 17:49:42] INFO: 0 bacterial user genomes have amino acids in <10.0% of columns in filtered MSA.
+[2024-11-27 17:49:42] INFO: Creating concatenated alignment for 62,322 bacterial GTDB and user genomes.
+[2024-11-27 17:50:04] INFO: Creating concatenated alignment for 31 bacterial user genomes.
+[2024-11-27 17:50:04] INFO: Done.
+[2024-11-27 17:50:05] TASK: Placing 31 bacterial genomes into backbone reference tree with pplacer using 40 CPUs (be patient).
+[2024-11-27 17:50:05] INFO: pplacer version: v1.1.alpha19-0-g807f6f3
+[2024-11-27 17:52:41] INFO: Calculating RED values based on reference tree.
+[2024-11-27 17:52:42] INFO: 31 out of 31 have an class assignments. Those genomes will be reclassified.
+[2024-11-27 17:52:42] TASK: Placing 16 bacterial genomes into class-level reference tree 1 (1/3) with pplacer using 40 CPUs (be patient).
+[2024-11-27 17:59:22] INFO: Calculating RED values based on reference tree.
+[2024-11-27 17:59:23] TASK: Traversing tree to determine classification method.
+[2024-11-27 17:59:23] INFO: Completed 16 genomes in 0.02 seconds (1,055.52 genomes/second).
+[2024-11-27 17:59:24] TASK: Calculating average nucleotide identity using FastANI (v1.3).
+[2024-11-27 18:00:58] INFO: Completed 2,126 comparisons in 1.56 minutes (1,365.40 comparisons/minute).
+[2024-11-27 18:00:58] INFO: 13 genome(s) have been classified using FastANI and pplacer.
+[2024-11-27 18:00:58] TASK: Placing 9 bacterial genomes into class-level reference tree 4 (2/3) with pplacer using 40 CPUs (be patient).
+[2024-11-27 18:08:11] INFO: Calculating RED values based on reference tree.
+[2024-11-27 18:08:14] TASK: Traversing tree to determine classification method.
+[2024-11-27 18:08:14] INFO: Completed 9 genomes in 0.00 seconds (2,694.41 genomes/second).
+[2024-11-27 18:08:14] TASK: Calculating average nucleotide identity using FastANI (v1.3).
+[2024-11-27 18:08:46] INFO: Completed 640 comparisons in 31.82 seconds (20.11 comparisons/second).
+[2024-11-27 18:08:46] INFO: 9 genome(s) have been classified using FastANI and pplacer.
+[2024-11-27 18:08:47] TASK: Placing 6 bacterial genomes into class-level reference tree 3 (3/3) with pplacer using 40 CPUs (be patient).
+[2024-11-27 18:15:22] INFO: Calculating RED values based on reference tree.
+[2024-11-27 18:15:24] TASK: Traversing tree to determine classification method.
+[2024-11-27 18:15:24] INFO: Completed 6 genomes in 0.00 seconds (6,631.31 genomes/second).
+[2024-11-27 18:15:24] TASK: Calculating average nucleotide identity using FastANI (v1.3).
+[2024-11-27 18:15:39] INFO: Completed 192 comparisons in 14.47 seconds (13.27 comparisons/second).
+[2024-11-27 18:15:39] INFO: 6 genome(s) have been classified using FastANI and pplacer.
+[2024-11-27 18:15:39] INFO: Note that Tk classification mode is insufficient for publication of new taxonomic designations. New designations should be based on one or more de novo trees, an example of which can be produced by Tk in de novo mode.
+[2024-11-27 18:15:39] INFO: Done.
+[2024-11-27 18:15:39] INFO: Removing intermediate files.
+[2024-11-27 18:15:39] INFO: Intermediate files removed.
+[2024-11-27 18:15:39] INFO: Done.
+[2024-12-05 12:06:32] INFO: GTDB-Tk v2.1.1
+[2024-12-05 12:06:32] INFO: gtdbtk classify_wf --genome_dir data/final_genomes/ --out_dir results/04.gtdbtk/ -x fasta --cpus 40
+[2024-12-05 12:06:32] INFO: Using GTDB-Tk reference data version r207: /data/bases/gtdbtk
+[2024-12-05 12:06:32] INFO: Identifying markers in 32 genomes with 40 threads.
+[2024-12-05 12:06:32] TASK: Running Prodigal V2.6.3 to identify genes.
+[2024-12-05 12:08:32] INFO: Completed 32 genomes in 2.00 minutes (16.00 genomes/minute).
+[2024-12-05 12:08:32] TASK: Identifying TIGRFAM protein families.
+[2024-12-05 12:08:55] INFO: Completed 32 genomes in 22.40 seconds (1.43 genomes/second).
+[2024-12-05 12:08:55] TASK: Identifying Pfam protein families.
+[2024-12-05 12:08:56] INFO: Completed 32 genomes in 1.36 seconds (23.52 genomes/second).
+[2024-12-05 12:08:56] INFO: Annotations done using HMMER 3.1b2 (February 2015).
+[2024-12-05 12:08:56] TASK: Summarising identified marker genes.
+[2024-12-05 12:08:58] INFO: Completed 32 genomes in 2.07 seconds (15.47 genomes/second).
+[2024-12-05 12:08:58] INFO: Done.
+[2024-12-05 12:08:59] INFO: Aligning markers in 32 genomes with 40 CPUs.
+[2024-12-05 12:08:59] INFO: Processing 32 genomes identified as bacterial.
+[2024-12-05 12:09:29] INFO: Read concatenated alignment for 62,291 GTDB genomes.
+[2024-12-05 12:09:29] TASK: Generating concatenated alignment for each marker.
+[2024-12-05 12:09:33] INFO: Completed 32 genomes in 0.26 seconds (123.16 genomes/second).
+[2024-12-05 12:09:33] TASK: Aligning 120 identified markers using hmmalign 3.1b2 (February 2015).
+[2024-12-05 12:09:41] INFO: Completed 120 markers in 3.26 seconds (36.86 markers/second).
+[2024-12-05 12:09:41] TASK: Masking columns of bacterial multiple sequence alignment using canonical mask.
+[2024-12-05 12:11:44] INFO: Completed 62,323 sequences in 2.05 minutes (30,362.95 sequences/minute).
+[2024-12-05 12:11:44] INFO: Masked bacterial alignment from 41,084 to 5,036 AAs.
+[2024-12-05 12:11:44] INFO: 0 bacterial user genomes have amino acids in <10.0% of columns in filtered MSA.
+[2024-12-05 12:11:44] INFO: Creating concatenated alignment for 62,323 bacterial GTDB and user genomes.
+[2024-12-05 12:12:09] INFO: Creating concatenated alignment for 32 bacterial user genomes.
+[2024-12-05 12:12:09] INFO: Done.
+[2024-12-05 12:12:10] TASK: Placing 32 bacterial genomes into backbone reference tree with pplacer using 40 CPUs (be patient).
+[2024-12-05 12:12:10] INFO: pplacer version: v1.1.alpha19-0-g807f6f3
+[2024-12-05 12:14:57] INFO: Calculating RED values based on reference tree.
+[2024-12-05 12:14:58] INFO: 32 out of 32 have an class assignments. Those genomes will be reclassified.
+[2024-12-05 12:14:58] TASK: Placing 17 bacterial genomes into class-level reference tree 1 (1/3) with pplacer using 40 CPUs (be patient).
+[2024-12-05 12:22:25] INFO: Calculating RED values based on reference tree.
+[2024-12-05 12:22:27] TASK: Traversing tree to determine classification method.
+[2024-12-05 12:22:27] INFO: Completed 17 genomes in 0.02 seconds (959.11 genomes/second).
+[2024-12-05 12:22:28] TASK: Calculating average nucleotide identity using FastANI (v1.3).
+[2024-12-05 12:24:37] INFO: Completed 2,326 comparisons in 2.15 minutes (1,081.71 comparisons/minute).
+[2024-12-05 12:24:37] INFO: 14 genome(s) have been classified using FastANI and pplacer.
+[2024-12-05 12:24:37] TASK: Placing 9 bacterial genomes into class-level reference tree 4 (2/3) with pplacer using 40 CPUs (be patient).
+[2024-12-05 12:32:30] INFO: Calculating RED values based on reference tree.
+[2024-12-05 12:32:32] TASK: Traversing tree to determine classification method.
+[2024-12-05 12:32:32] INFO: Completed 9 genomes in 0.00 seconds (2,492.82 genomes/second).
+[2024-12-05 12:32:33] TASK: Calculating average nucleotide identity using FastANI (v1.3).
+[2024-12-05 12:33:17] INFO: Completed 640 comparisons in 44.43 seconds (14.40 comparisons/second).
+[2024-12-05 12:33:18] INFO: 9 genome(s) have been classified using FastANI and pplacer.
+[2024-12-05 12:33:18] TASK: Placing 6 bacterial genomes into class-level reference tree 3 (3/3) with pplacer using 40 CPUs (be patient).
+[2024-12-05 12:40:43] INFO: Calculating RED values based on reference tree.
+[2024-12-05 12:40:45] TASK: Traversing tree to determine classification method.
+[2024-12-05 12:40:45] INFO: Completed 6 genomes in 0.00 seconds (6,169.61 genomes/second).
+[2024-12-05 12:40:46] TASK: Calculating average nucleotide identity using FastANI (v1.3).
+[2024-12-05 12:41:06] INFO: Completed 192 comparisons in 19.72 seconds (9.73 comparisons/second).
+[2024-12-05 12:41:06] INFO: 6 genome(s) have been classified using FastANI and pplacer.
+[2024-12-05 12:41:06] INFO: Note that Tk classification mode is insufficient for publication of new taxonomic designations. New designations should be based on one or more de novo trees, an example of which can be produced by Tk in de novo mode.
+[2024-12-05 12:41:06] INFO: Done.
+[2024-12-05 12:41:06] INFO: Removing intermediate files.
+[2024-12-05 12:41:07] INFO: Intermediate files removed.
+[2024-12-05 12:41:07] INFO: Done.

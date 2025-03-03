@@ -1,0 +1,188 @@
+Mon Mar  3 10:17:52 CST 2025
+prokka --locustag Algiphilus_aromaticivorans_DG1253_APAlg_Scaffold --prefix Algiphilus_aromaticivorans_DG1253_APAlg --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Algiphilus_aromaticivorans_DG1253_APAlg data/final_genomes//Algiphilus_aromaticivorans_DG1253_APAlg.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Algiphilus_aromaticivorans_DG1253_APAlg/Algiphilus_aromaticivorans_DG1253_APAlg.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Algiphilus_aromaticivorans_DG1253_APAlg/Algiphilus_aromaticivorans_DG1253_APAlg.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:19:43 CST 2025
+prokka --locustag Algiphilus_sp_SW459_GCF_023145115.1_Scaffold --prefix Algiphilus_sp_SW459_GCF_023145115.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Algiphilus_sp_SW459_GCF_023145115.1 data/final_genomes//Algiphilus_sp_SW459_GCF_023145115.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Algiphilus_sp_SW459_GCF_023145115.1/Algiphilus_sp_SW459_GCF_023145115.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Algiphilus_sp_SW459_GCF_023145115.1/Algiphilus_sp_SW459_GCF_023145115.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:21:15 CST 2025
+prokka --locustag Arenibacter_algicola_GCF_002234495.1_Scaffold --prefix Arenibacter_algicola_GCF_002234495.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Arenibacter_algicola_GCF_002234495.1 data/final_genomes//Arenibacter_algicola_GCF_002234495.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_GCF_002234495.1/Arenibacter_algicola_GCF_002234495.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_GCF_002234495.1/Arenibacter_algicola_GCF_002234495.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:26:12 CST 2025
+prokka --locustag Arenibacter_algicola_GCF_006789585.1_Scaffold --prefix Arenibacter_algicola_GCF_006789585.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Arenibacter_algicola_GCF_006789585.1 data/final_genomes//Arenibacter_algicola_GCF_006789585.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_GCF_006789585.1/Arenibacter_algicola_GCF_006789585.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_GCF_006789585.1/Arenibacter_algicola_GCF_006789585.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:30:31 CST 2025
+prokka --locustag Arenibacter_algicola_GCF_018860365.1_Scaffold --prefix Arenibacter_algicola_GCF_018860365.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Arenibacter_algicola_GCF_018860365.1 data/final_genomes//Arenibacter_algicola_GCF_018860365.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_GCF_018860365.1/Arenibacter_algicola_GCF_018860365.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_GCF_018860365.1/Arenibacter_algicola_GCF_018860365.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:32:34 CST 2025
+prokka --locustag Arenibacter_algicola_TG409_APAre_Scaffold --prefix Arenibacter_algicola_TG409_APAre --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Arenibacter_algicola_TG409_APAre data/final_genomes//Arenibacter_algicola_TG409_APAre.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_TG409_APAre/Arenibacter_algicola_TG409_APAre.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_algicola_TG409_APAre/Arenibacter_algicola_TG409_APAre.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:34:56 CST 2025
+prokka --locustag Arenibacter_echinorum_GCF_003259375.1_Scaffold --prefix Arenibacter_echinorum_GCF_003259375.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Arenibacter_echinorum_GCF_003259375.1 data/final_genomes//Arenibacter_echinorum_GCF_003259375.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_echinorum_GCF_003259375.1/Arenibacter_echinorum_GCF_003259375.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_echinorum_GCF_003259375.1/Arenibacter_echinorum_GCF_003259375.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:38:29 CST 2025
+prokka --locustag Arenibacter_sp_NBRC_GCF_001748465.2_Scaffold --prefix Arenibacter_sp_NBRC_GCF_001748465.2 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Arenibacter_sp_NBRC_GCF_001748465.2 data/final_genomes//Arenibacter_sp_NBRC_GCF_001748465.2.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_sp_NBRC_GCF_001748465.2/Arenibacter_sp_NBRC_GCF_001748465.2.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Arenibacter_sp_NBRC_GCF_001748465.2/Arenibacter_sp_NBRC_GCF_001748465.2.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:42:05 CST 2025
+prokka --locustag Halomonas_alkaliantarctica_GCF_029854215.1_Scaffold --prefix Halomonas_alkaliantarctica_GCF_029854215.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Halomonas_alkaliantarctica_GCF_029854215.1 data/final_genomes//Halomonas_alkaliantarctica_GCF_029854215.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_alkaliantarctica_GCF_029854215.1/Halomonas_alkaliantarctica_GCF_029854215.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_alkaliantarctica_GCF_029854215.1/Halomonas_alkaliantarctica_GCF_029854215.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:45:20 CST 2025
+prokka --locustag Halomonas_hibernica_GCF_013183775.1_Scaffold --prefix Halomonas_hibernica_GCF_013183775.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Halomonas_hibernica_GCF_013183775.1 data/final_genomes//Halomonas_hibernica_GCF_013183775.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_hibernica_GCF_013183775.1/Halomonas_hibernica_GCF_013183775.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_hibernica_GCF_013183775.1/Halomonas_hibernica_GCF_013183775.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:46:44 CST 2025
+prokka --locustag Halomonas_sp._TG39a_APHal_Scaffold --prefix Halomonas_sp._TG39a_APHal --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Halomonas_sp._TG39a_APHal data/final_genomes//Halomonas_sp._TG39a_APHal.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_sp._TG39a_APHal/Halomonas_sp._TG39a_APHal.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_sp._TG39a_APHal/Halomonas_sp._TG39a_APHal.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:48:48 CST 2025
+prokka --locustag Halomonas_ventosae_GCF_002257525.1_Scaffold --prefix Halomonas_ventosae_GCF_002257525.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Halomonas_ventosae_GCF_002257525.1 data/final_genomes//Halomonas_ventosae_GCF_002257525.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_ventosae_GCF_002257525.1/Halomonas_ventosae_GCF_002257525.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_ventosae_GCF_002257525.1/Halomonas_ventosae_GCF_002257525.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:51:07 CST 2025
+prokka --locustag Halomonas_ventosae_GCF_004363555.1_Scaffold --prefix Halomonas_ventosae_GCF_004363555.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Halomonas_ventosae_GCF_004363555.1 data/final_genomes//Halomonas_ventosae_GCF_004363555.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_ventosae_GCF_004363555.1/Halomonas_ventosae_GCF_004363555.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Halomonas_ventosae_GCF_004363555.1/Halomonas_ventosae_GCF_004363555.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:53:47 CST 2025
+prokka --locustag Marinobacter_algicola_DG893_GCF_000170835.1_Scaffold --prefix Marinobacter_algicola_DG893_GCF_000170835.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_algicola_DG893_GCF_000170835.1 data/final_genomes//Marinobacter_algicola_DG893_GCF_000170835.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_algicola_DG893_GCF_000170835.1/Marinobacter_algicola_DG893_GCF_000170835.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_algicola_DG893_GCF_000170835.1/Marinobacter_algicola_DG893_GCF_000170835.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:56:38 CST 2025
+prokka --locustag Marinobacter_salarius_GCF_000831005.1_Scaffold --prefix Marinobacter_salarius_GCF_000831005.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_salarius_GCF_000831005.1 data/final_genomes//Marinobacter_salarius_GCF_000831005.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_salarius_GCF_000831005.1/Marinobacter_salarius_GCF_000831005.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_salarius_GCF_000831005.1/Marinobacter_salarius_GCF_000831005.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 10:58:57 CST 2025
+prokka --locustag Marinobacter_salarius_GCF_002116735.1_Scaffold --prefix Marinobacter_salarius_GCF_002116735.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_salarius_GCF_002116735.1 data/final_genomes//Marinobacter_salarius_GCF_002116735.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_salarius_GCF_002116735.1/Marinobacter_salarius_GCF_002116735.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_salarius_GCF_002116735.1/Marinobacter_salarius_GCF_002116735.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:02:33 CST 2025
+prokka --locustag Marinobacter_salarius_GCF_003986605.1_Scaffold --prefix Marinobacter_salarius_GCF_003986605.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_salarius_GCF_003986605.1 data/final_genomes//Marinobacter_salarius_GCF_003986605.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_salarius_GCF_003986605.1/Marinobacter_salarius_GCF_003986605.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_salarius_GCF_003986605.1/Marinobacter_salarius_GCF_003986605.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:06:39 CST 2025
+prokka --locustag Marinobacter_sediminicola_GCF_031157525.1_Scaffold --prefix Marinobacter_sediminicola_GCF_031157525.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_sediminicola_GCF_031157525.1 data/final_genomes//Marinobacter_sediminicola_GCF_031157525.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_sediminicola_GCF_031157525.1/Marinobacter_sediminicola_GCF_031157525.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_sediminicola_GCF_031157525.1/Marinobacter_sediminicola_GCF_031157525.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:08:10 CST 2025
+prokka --locustag Marinobacter_sp_strain_MCTG268_APMar_Scaffold --prefix Marinobacter_sp_strain_MCTG268_APMar --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_sp_strain_MCTG268_APMar data/final_genomes//Marinobacter_sp_strain_MCTG268_APMar.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_sp_strain_MCTG268_APMar/Marinobacter_sp_strain_MCTG268_APMar.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_sp_strain_MCTG268_APMar/Marinobacter_sp_strain_MCTG268_APMar.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:09:54 CST 2025
+prokka --locustag Marinobacter_xiaoshiensis_GCF_031631795.1_Scaffold --prefix Marinobacter_xiaoshiensis_GCF_031631795.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Marinobacter_xiaoshiensis_GCF_031631795.1 data/final_genomes//Marinobacter_xiaoshiensis_GCF_031631795.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_xiaoshiensis_GCF_031631795.1/Marinobacter_xiaoshiensis_GCF_031631795.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Marinobacter_xiaoshiensis_GCF_031631795.1/Marinobacter_xiaoshiensis_GCF_031631795.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:11:26 CST 2025
+prokka --locustag Oceanicola_granulosus_HTCC2516_GCF_000153305.1_Scaffold --prefix Oceanicola_granulosus_HTCC2516_GCF_000153305.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Oceanicola_granulosus_HTCC2516_GCF_000153305.1 data/final_genomes//Oceanicola_granulosus_HTCC2516_GCF_000153305.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Oceanicola_granulosus_HTCC2516_GCF_000153305.1/Oceanicola_granulosus_HTCC2516_GCF_000153305.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Oceanicola_granulosus_HTCC2516_GCF_000153305.1/Oceanicola_granulosus_HTCC2516_GCF_000153305.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:14:26 CST 2025
+prokka --locustag Oceanicola_sp._D3_GCF_006351965.1_Scaffold --prefix Oceanicola_sp._D3_GCF_006351965.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Oceanicola_sp._D3_GCF_006351965.1 data/final_genomes//Oceanicola_sp._D3_GCF_006351965.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Oceanicola_sp._D3_GCF_006351965.1/Oceanicola_sp._D3_GCF_006351965.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Oceanicola_sp._D3_GCF_006351965.1/Oceanicola_sp._D3_GCF_006351965.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:17:56 CST 2025
+prokka --locustag Oceanicola_sp_MCTG1561a_APOce_Scaffold --prefix Oceanicola_sp_MCTG1561a_APOce --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Oceanicola_sp_MCTG1561a_APOce data/final_genomes//Oceanicola_sp_MCTG1561a_APOce.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Oceanicola_sp_MCTG1561a_APOce/Oceanicola_sp_MCTG1561a_APOce.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Oceanicola_sp_MCTG1561a_APOce/Oceanicola_sp_MCTG1561a_APOce.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:19:43 CST 2025
+prokka --locustag Polycyclovorans_algicola_TG408_PolalgTG_Scaffold --prefix Polycyclovorans_algicola_TG408_PolalgTG --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Polycyclovorans_algicola_TG408_PolalgTG data/final_genomes//Polycyclovorans_algicola_TG408_PolalgTG.fasta
+Mon Mar  3 11:19:46 CST 2025
+prokka --locustag Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor_Scaffold --prefix Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor data/final_genomes//Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor/Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor/Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:20:55 CST 2025
+prokka --locustag Porticoccus_litoralis_GCF_030676955.1_Scaffold --prefix Porticoccus_litoralis_GCF_030676955.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Porticoccus_litoralis_GCF_030676955.1 data/final_genomes//Porticoccus_litoralis_GCF_030676955.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Porticoccus_litoralis_GCF_030676955.1/Porticoccus_litoralis_GCF_030676955.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Porticoccus_litoralis_GCF_030676955.1/Porticoccus_litoralis_GCF_030676955.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:21:55 CST 2025
+prokka --locustag Roseovarius_indicus_GCF_008728195.1_Scaffold --prefix Roseovarius_indicus_GCF_008728195.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Roseovarius_indicus_GCF_008728195.1 data/final_genomes//Roseovarius_indicus_GCF_008728195.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_indicus_GCF_008728195.1/Roseovarius_indicus_GCF_008728195.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_indicus_GCF_008728195.1/Roseovarius_indicus_GCF_008728195.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:26:56 CST 2025
+prokka --locustag Roseovarius_mucosus_DSM_17069_GCF_000768555.3_Scaffold --prefix Roseovarius_mucosus_DSM_17069_GCF_000768555.3 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Roseovarius_mucosus_DSM_17069_GCF_000768555.3 data/final_genomes//Roseovarius_mucosus_DSM_17069_GCF_000768555.3.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_mucosus_DSM_17069_GCF_000768555.3/Roseovarius_mucosus_DSM_17069_GCF_000768555.3.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_mucosus_DSM_17069_GCF_000768555.3/Roseovarius_mucosus_DSM_17069_GCF_000768555.3.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:29:54 CST 2025
+prokka --locustag Roseovarius_nanhaiticus_GCF_900156535.1_Scaffold --prefix Roseovarius_nanhaiticus_GCF_900156535.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Roseovarius_nanhaiticus_GCF_900156535.1 data/final_genomes//Roseovarius_nanhaiticus_GCF_900156535.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_nanhaiticus_GCF_900156535.1/Roseovarius_nanhaiticus_GCF_900156535.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_nanhaiticus_GCF_900156535.1/Roseovarius_nanhaiticus_GCF_900156535.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:32:32 CST 2025
+prokka --locustag Roseovarius_sp_217_GCF_000152845.1_Scaffold --prefix Roseovarius_sp_217_GCF_000152845.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Roseovarius_sp_217_GCF_000152845.1 data/final_genomes//Roseovarius_sp_217_GCF_000152845.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_sp_217_GCF_000152845.1/Roseovarius_sp_217_GCF_000152845.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_sp_217_GCF_000152845.1/Roseovarius_sp_217_GCF_000152845.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:36:12 CST 2025
+prokka --locustag Roseovarius_sp_GCF_018066915.1_Scaffold --prefix Roseovarius_sp_GCF_018066915.1 --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Roseovarius_sp_GCF_018066915.1 data/final_genomes//Roseovarius_sp_GCF_018066915.1.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_sp_GCF_018066915.1/Roseovarius_sp_GCF_018066915.1.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_sp_GCF_018066915.1/Roseovarius_sp_GCF_018066915.1.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
+Mon Mar  3 11:37:45 CST 2025
+prokka --locustag Roseovarius_sp_MCTG1562b_APRos_Scaffold --prefix Roseovarius_sp_MCTG1562b_APRos --addgenes --addmrna --cpus 40 --outdir results/05.prokka/Roseovarius_sp_MCTG1562b_APRos data/final_genomes//Roseovarius_sp_MCTG1562b_APRos.fasta
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_sp_MCTG1562b_APRos/Roseovarius_sp_MCTG1562b_APRos.gbf
+[tbl2asn-forever] Correcting dates in results/05.prokka/Roseovarius_sp_MCTG1562b_APRos/Roseovarius_sp_MCTG1562b_APRos.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 03-MAR-2025
