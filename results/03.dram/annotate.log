@@ -1,0 +1,398 @@
+2024-12-05 12:05:46,585 - The log file is created at results/03.dram/annotate.log.
+2024-12-05 12:05:46,586 - 32 FASTAs found
+2024-12-05 12:05:46,635 - Starting the Annotation of Bins with database configuration: 
+ 
+
+KOfam db:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+    Download Time: 08/23/2024, 13:08:50
+    Origin: Downloaded by DRAM
+KOfam KO list:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+    Download Time: 08/23/2024, 13:08:53
+    Origin: Downloaded by DRAM
+Pfam db:
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Download Time: 08/24/2024, 16:57:37
+    Origin: Downloaded by DRAM
+    Description_Db_Updated: 08/27/2024, 06:30:48
+dbCAN db:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Download Time: 08/24/2024, 16:57:43
+    Origin: Downloaded by DRAM
+    Description_Db_Updated: 08/27/2024, 06:30:49
+MEROPS peptidase db:
+    Description_Db_Updated: 08/27/2024, 06:30:47
+    Citation: N. D. Rawlings, A. J. Barrett, P. D. Thomas, X. Huang, A. Bateman, and R. D. Finn, "The merops database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the panther database," Nucleic acids research, vol. 46, no. D1, pp. D624–D632, 2018.
+    Download Time: 08/24/2024, 16:59:29
+    Origin: Downloaded by DRAM
+
+Pfam hmm dat:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Download Time: 08/24/2024, 16:57:38
+    Origin: Downloaded by DRAM
+dbCAN family activities:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 08/24/2024, 16:57:43
+    Origin: Downloaded by DRAM
+dbCAN subfamily EC numbers:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 08/24/2024, 16:57:44
+    Origin: Downloaded by DRAM
+VOG annotations:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Thannesberger, H.-J. Hellinger, I. Klymiuk, M.-T. Kastner, F. J. Rieder, M. Schneider, S. Fister, T. Lion, K. Kosulin, J. Laengle et al., "Viruses comprise an extensive pool of mobile genetic elements in eukaryote cell cultures and human clinical samples," The FASEB Journal, vol. 31, no. 5, pp. 1987–2000, 2017.
+    Version: latest
+    Download Time: 08/24/2024, 16:58:51
+    Origin: Downloaded by DRAM
+
+Genome summary form:
+    Branch: master
+    Download Time: 08/24/2024, 16:59:29
+    Origin: Downloaded by DRAM
+Module step form:
+    Branch: master
+    Download Time: 08/24/2024, 16:59:30
+    Origin: Downloaded by DRAM
+ETC module database:
+    Branch: master
+    Download Time: 08/24/2024, 16:59:31
+    Origin: Downloaded by DRAM
+Function heatmap form:
+    Branch: master
+    Download Time: 08/24/2024, 16:59:30
+    Origin: Downloaded by DRAM
+AMG database:
+    Branch: master
+    Download Time: 08/24/2024, 16:59:30
+    Origin: Downloaded by DRAM
+2024-12-05 12:05:46,636 - When running prodigal in single mode your bins must have long contigs (average length >3 Kbp), be long enough (total length > 500 Kbp) and have very low contamination in order for prodigal training to work well.
+2024-12-05 12:05:46,636 - Retrieved database locations and descriptions
+2024-12-05 12:05:46,636 - Annotating Arenibacter_algicola_TG409_APAre
+2024-12-05 12:06:13,663 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 12:06:23,974 - Getting hits from kofam
+2024-12-05 12:25:31,516 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 12:25:31,517 - Getting forward best hits from peptidase
+2024-12-05 12:26:14,316 - Getting reverse best hits from peptidase
+2024-12-05 12:26:31,008 - Getting descriptions of hits from peptidase
+2024-12-05 12:26:35,040 - Getting hits from pfam
+2024-12-05 12:28:23,828 - Getting hits from dbCAN
+2024-12-05 12:28:41,993 - Merging ORF annotations
+2024-12-05 12:28:54,728 - Annotating Arenibacter_sp_NBRC_GCF_001748465.2
+2024-12-05 12:29:47,357 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 12:30:08,958 - Getting hits from kofam
+2024-12-05 12:53:40,714 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 12:53:40,714 - Getting forward best hits from peptidase
+2024-12-05 12:53:54,858 - Getting reverse best hits from peptidase
+2024-12-05 12:54:07,412 - Getting descriptions of hits from peptidase
+2024-12-05 12:54:07,876 - Getting hits from pfam
+2024-12-05 12:54:21,204 - Getting hits from dbCAN
+2024-12-05 12:54:51,665 - Merging ORF annotations
+2024-12-05 12:55:49,359 - Annotating Arenibacter_algicola_GCF_002234495.1
+2024-12-05 12:56:45,353 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 12:57:07,673 - Getting hits from kofam
+2024-12-05 13:20:19,908 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 13:20:19,908 - Getting forward best hits from peptidase
+2024-12-05 13:20:34,363 - Getting reverse best hits from peptidase
+2024-12-05 13:20:50,978 - Getting descriptions of hits from peptidase
+2024-12-05 13:20:52,260 - Getting hits from pfam
+2024-12-05 13:21:05,442 - Getting hits from dbCAN
+2024-12-05 13:21:34,744 - Merging ORF annotations
+2024-12-05 13:21:58,042 - Annotating Arenibacter_algicola_GCF_006789585.1
+2024-12-05 13:22:48,437 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 13:23:02,284 - Getting hits from kofam
+2024-12-05 13:45:46,069 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 13:45:46,083 - Getting forward best hits from peptidase
+2024-12-05 13:46:00,521 - Getting reverse best hits from peptidase
+2024-12-05 13:46:13,854 - Getting descriptions of hits from peptidase
+2024-12-05 13:46:17,145 - Getting hits from pfam
+2024-12-05 13:46:31,590 - Getting hits from dbCAN
+2024-12-05 13:47:00,757 - Merging ORF annotations
+2024-12-05 13:47:18,584 - Annotating Arenibacter_echinorum_GCF_003259375.1
+2024-12-05 13:48:07,392 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 13:48:17,558 - Getting hits from kofam
+2024-12-05 14:09:58,122 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 14:09:58,122 - Getting forward best hits from peptidase
+2024-12-05 14:10:11,783 - Getting reverse best hits from peptidase
+2024-12-05 14:10:22,726 - Getting descriptions of hits from peptidase
+2024-12-05 14:10:23,718 - Getting hits from pfam
+2024-12-05 14:10:36,038 - Getting hits from dbCAN
+2024-12-05 14:11:03,585 - Merging ORF annotations
+2024-12-05 14:11:31,082 - Annotating Arenibacter_algicola_GCF_018860365.1
+2024-12-05 14:11:58,404 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 14:12:07,997 - Getting hits from kofam
+2024-12-05 14:28:49,590 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 14:28:49,590 - Getting forward best hits from peptidase
+2024-12-05 14:28:57,624 - Getting reverse best hits from peptidase
+2024-12-05 14:29:07,272 - Getting descriptions of hits from peptidase
+2024-12-05 14:29:08,151 - Getting hits from pfam
+2024-12-05 14:29:18,073 - Getting hits from dbCAN
+2024-12-05 14:29:36,688 - Merging ORF annotations
+2024-12-05 14:29:52,197 - Annotating Algiphilus_aromaticivorans_DG1253_APAlg
+2024-12-05 14:30:05,236 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 14:30:14,619 - Getting hits from kofam
+2024-12-05 14:48:54,897 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 14:48:54,898 - Getting forward best hits from peptidase
+2024-12-05 14:49:00,943 - Getting reverse best hits from peptidase
+2024-12-05 14:49:11,283 - Getting descriptions of hits from peptidase
+2024-12-05 14:49:13,714 - Getting hits from pfam
+2024-12-05 14:49:22,947 - Getting hits from dbCAN
+2024-12-05 14:49:34,808 - Merging ORF annotations
+2024-12-05 14:49:50,736 - Annotating Algiphilus_sp_SW459_GCF_023145115.1
+2024-12-05 14:50:03,237 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 14:50:12,642 - Getting hits from kofam
+2024-12-05 15:07:49,042 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 15:07:49,043 - Getting forward best hits from peptidase
+2024-12-05 15:07:54,892 - Getting reverse best hits from peptidase
+2024-12-05 15:08:04,805 - Getting descriptions of hits from peptidase
+2024-12-05 15:08:06,012 - Getting hits from pfam
+2024-12-05 15:08:15,218 - Getting hits from dbCAN
+2024-12-05 15:08:26,957 - Merging ORF annotations
+2024-12-05 15:08:56,132 - Annotating Halomonas_sp._TG39a_APHal
+2024-12-05 15:09:12,467 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 15:09:21,902 - Getting hits from kofam
+2024-12-05 15:30:34,441 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 15:30:34,442 - Getting forward best hits from peptidase
+2024-12-05 15:30:41,468 - Getting reverse best hits from peptidase
+2024-12-05 15:30:51,107 - Getting descriptions of hits from peptidase
+2024-12-05 15:30:53,015 - Getting hits from pfam
+2024-12-05 15:31:02,817 - Getting hits from dbCAN
+2024-12-05 15:31:16,733 - Merging ORF annotations
+2024-12-05 15:31:39,768 - Annotating Halomonas_ventosae_GCF_002257525.1
+2024-12-05 15:31:58,625 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 15:32:08,102 - Getting hits from kofam
+2024-12-05 15:53:18,660 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 15:53:18,661 - Getting forward best hits from peptidase
+2024-12-05 15:53:26,045 - Getting reverse best hits from peptidase
+2024-12-05 15:53:35,811 - Getting descriptions of hits from peptidase
+2024-12-05 15:53:36,138 - Getting hits from pfam
+2024-12-05 15:53:46,099 - Getting hits from dbCAN
+2024-12-05 15:54:00,791 - Merging ORF annotations
+2024-12-05 15:54:23,295 - Annotating Halomonas_ventosae_GCF_004363555.1
+2024-12-05 15:54:51,062 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 15:55:00,672 - Getting hits from kofam
+2024-12-05 16:17:16,665 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 16:17:16,665 - Getting forward best hits from peptidase
+2024-12-05 16:17:27,123 - Getting reverse best hits from peptidase
+2024-12-05 16:17:36,685 - Getting descriptions of hits from peptidase
+2024-12-05 16:17:37,890 - Getting hits from pfam
+2024-12-05 16:17:49,311 - Getting hits from dbCAN
+2024-12-05 16:18:08,429 - Merging ORF annotations
+2024-12-05 16:19:07,448 - Annotating Halomonas_alkaliantarctica_GCF_029854215.1
+2024-12-05 16:19:35,975 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 16:19:45,589 - Getting hits from kofam
+2024-12-05 16:43:55,616 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 16:43:55,617 - Getting forward best hits from peptidase
+2024-12-05 16:44:06,283 - Getting reverse best hits from peptidase
+2024-12-05 16:44:15,965 - Getting descriptions of hits from peptidase
+2024-12-05 16:44:16,831 - Getting hits from pfam
+2024-12-05 16:44:28,364 - Getting hits from dbCAN
+2024-12-05 16:44:47,286 - Merging ORF annotations
+2024-12-05 16:45:26,391 - Annotating Halomonas_hibernica_GCF_013183775.1
+2024-12-05 16:45:38,637 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 16:45:48,044 - Getting hits from kofam
+2024-12-05 17:03:18,084 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 17:03:18,087 - Getting forward best hits from peptidase
+2024-12-05 17:03:23,770 - Getting reverse best hits from peptidase
+2024-12-05 17:03:33,594 - Getting descriptions of hits from peptidase
+2024-12-05 17:03:34,171 - Getting hits from pfam
+2024-12-05 17:03:43,316 - Getting hits from dbCAN
+2024-12-05 17:03:54,737 - Merging ORF annotations
+2024-12-05 17:04:22,198 - Annotating Marinobacter_sp_strain_MCTG268_APMar
+2024-12-05 17:04:37,567 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 17:04:47,018 - Getting hits from kofam
+2024-12-05 17:23:13,708 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 17:23:13,709 - Getting forward best hits from peptidase
+2024-12-05 17:23:20,557 - Getting reverse best hits from peptidase
+2024-12-05 17:23:29,993 - Getting descriptions of hits from peptidase
+2024-12-05 17:23:31,066 - Getting hits from pfam
+2024-12-05 17:23:40,630 - Getting hits from dbCAN
+2024-12-05 17:23:55,411 - Merging ORF annotations
+2024-12-05 17:24:18,898 - Annotating Marinobacter_salarius_GCF_000831005.1
+2024-12-05 17:24:34,862 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 17:24:44,316 - Getting hits from kofam
+2024-12-05 17:40:36,537 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 17:40:36,537 - Getting forward best hits from peptidase
+2024-12-05 17:40:43,446 - Getting reverse best hits from peptidase
+2024-12-05 17:40:53,284 - Getting descriptions of hits from peptidase
+2024-12-05 17:40:53,880 - Getting hits from pfam
+2024-12-05 17:41:03,634 - Getting hits from dbCAN
+2024-12-05 17:41:17,122 - Merging ORF annotations
+2024-12-05 17:41:36,346 - Annotating Marinobacter_salarius_GCF_002116735.1
+2024-12-05 17:42:10,356 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 17:42:20,009 - Getting hits from kofam
+2024-12-05 18:06:05,806 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 18:06:05,809 - Getting forward best hits from peptidase
+2024-12-05 18:06:17,703 - Getting reverse best hits from peptidase
+2024-12-05 18:06:27,300 - Getting descriptions of hits from peptidase
+2024-12-05 18:06:27,554 - Getting hits from pfam
+2024-12-05 18:06:39,798 - Getting hits from dbCAN
+2024-12-05 18:07:01,202 - Merging ORF annotations
+2024-12-05 18:07:40,317 - Annotating Marinobacter_salarius_GCF_003986605.1
+2024-12-05 18:08:14,808 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 18:08:24,430 - Getting hits from kofam
+2024-12-05 18:33:39,199 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 18:33:39,199 - Getting forward best hits from peptidase
+2024-12-05 18:33:51,220 - Getting reverse best hits from peptidase
+2024-12-05 18:34:00,755 - Getting descriptions of hits from peptidase
+2024-12-05 18:34:00,946 - Getting hits from pfam
+2024-12-05 18:34:13,062 - Getting hits from dbCAN
+2024-12-05 18:34:34,652 - Merging ORF annotations
+2024-12-05 18:35:12,825 - Annotating Marinobacter_algicola_DG893_GCF_000170835.1
+2024-12-05 18:35:42,979 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 18:35:52,634 - Getting hits from kofam
+2024-12-05 18:59:14,073 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 18:59:14,073 - Getting forward best hits from peptidase
+2024-12-05 18:59:25,580 - Getting reverse best hits from peptidase
+2024-12-05 18:59:35,150 - Getting descriptions of hits from peptidase
+2024-12-05 18:59:35,452 - Getting hits from pfam
+2024-12-05 18:59:47,565 - Getting hits from dbCAN
+2024-12-05 19:00:08,520 - Merging ORF annotations
+2024-12-05 19:01:17,246 - Annotating Marinobacter_sediminicola_GCF_031157525.1
+2024-12-05 19:01:30,389 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 19:01:39,721 - Getting hits from kofam
+2024-12-05 19:18:07,841 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 19:18:07,842 - Getting forward best hits from peptidase
+2024-12-05 19:18:13,750 - Getting reverse best hits from peptidase
+2024-12-05 19:18:22,947 - Getting descriptions of hits from peptidase
+2024-12-05 19:18:23,560 - Getting hits from pfam
+2024-12-05 19:18:33,027 - Getting hits from dbCAN
+2024-12-05 19:18:44,861 - Merging ORF annotations
+2024-12-05 19:19:11,267 - Annotating Marinobacter_xiaoshiensis_GCF_031631795.1
+2024-12-05 19:19:24,740 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 19:19:34,079 - Getting hits from kofam
+2024-12-05 19:36:49,031 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 19:36:49,032 - Getting forward best hits from peptidase
+2024-12-05 19:36:55,189 - Getting reverse best hits from peptidase
+2024-12-05 19:37:04,467 - Getting descriptions of hits from peptidase
+2024-12-05 19:37:04,716 - Getting hits from pfam
+2024-12-05 19:37:14,046 - Getting hits from dbCAN
+2024-12-05 19:37:26,444 - Merging ORF annotations
+2024-12-05 19:37:52,070 - Annotating Oceanicola_sp_MCTG1561a_APOce
+2024-12-05 19:38:05,708 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 19:38:15,102 - Getting hits from kofam
+2024-12-05 19:53:38,206 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 19:53:38,207 - Getting forward best hits from peptidase
+2024-12-05 19:53:44,146 - Getting reverse best hits from peptidase
+2024-12-05 19:53:53,451 - Getting descriptions of hits from peptidase
+2024-12-05 19:53:54,586 - Getting hits from pfam
+2024-12-05 19:54:04,107 - Getting hits from dbCAN
+2024-12-05 19:54:15,992 - Merging ORF annotations
+2024-12-05 19:54:37,170 - Annotating Oceanicola_granulosus_HTCC2516_GCF_000153305.1
+2024-12-05 19:55:07,895 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 19:55:17,399 - Getting hits from kofam
+2024-12-05 20:16:41,588 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 20:16:41,589 - Getting forward best hits from peptidase
+2024-12-05 20:16:52,185 - Getting reverse best hits from peptidase
+2024-12-05 20:17:01,600 - Getting descriptions of hits from peptidase
+2024-12-05 20:17:02,473 - Getting hits from pfam
+2024-12-05 20:17:14,241 - Getting hits from dbCAN
+2024-12-05 20:17:35,765 - Merging ORF annotations
+2024-12-05 20:18:24,657 - Annotating Oceanicola_sp._D3_GCF_006351965.1
+2024-12-05 20:18:54,596 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 20:19:04,120 - Getting hits from kofam
+2024-12-05 20:40:13,908 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 20:40:13,909 - Getting forward best hits from peptidase
+2024-12-05 20:40:24,233 - Getting reverse best hits from peptidase
+2024-12-05 20:40:33,876 - Getting descriptions of hits from peptidase
+2024-12-05 20:40:34,758 - Getting hits from pfam
+2024-12-05 20:40:46,788 - Getting hits from dbCAN
+2024-12-05 20:41:06,896 - Merging ORF annotations
+2024-12-05 20:41:37,212 - Annotating Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor
+2024-12-05 20:41:45,554 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 20:41:55,136 - Getting hits from kofam
+2024-12-05 20:55:31,941 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 20:55:31,942 - Getting forward best hits from peptidase
+2024-12-05 20:55:36,471 - Getting reverse best hits from peptidase
+2024-12-05 20:55:45,652 - Getting descriptions of hits from peptidase
+2024-12-05 20:55:46,272 - Getting hits from pfam
+2024-12-05 20:55:55,304 - Getting hits from dbCAN
+2024-12-05 20:56:05,220 - Merging ORF annotations
+2024-12-05 20:56:14,444 - Annotating Porticoccus_litoralis_GCF_030676955.1
+2024-12-05 20:56:22,344 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 20:56:31,650 - Getting hits from kofam
+2024-12-05 21:09:44,948 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 21:09:44,949 - Getting forward best hits from peptidase
+2024-12-05 21:09:49,242 - Getting reverse best hits from peptidase
+2024-12-05 21:09:58,374 - Getting descriptions of hits from peptidase
+2024-12-05 21:09:58,729 - Getting hits from pfam
+2024-12-05 21:10:07,586 - Getting hits from dbCAN
+2024-12-05 21:10:17,028 - Merging ORF annotations
+2024-12-05 21:10:29,197 - Annotating Roseovarius_sp_MCTG1562b_APRos
+2024-12-05 21:10:47,435 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 21:10:56,831 - Getting hits from kofam
+2024-12-05 21:28:22,692 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 21:28:22,693 - Getting forward best hits from peptidase
+2024-12-05 21:28:29,996 - Getting reverse best hits from peptidase
+2024-12-05 21:28:39,517 - Getting descriptions of hits from peptidase
+2024-12-05 21:28:40,614 - Getting hits from pfam
+2024-12-05 21:28:51,025 - Getting hits from dbCAN
+2024-12-05 21:29:05,458 - Merging ORF annotations
+2024-12-05 21:29:29,342 - Annotating Roseovarius_sp_GCF_018066915.1
+2024-12-05 21:29:42,206 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 21:29:51,557 - Getting hits from kofam
+2024-12-05 21:46:26,920 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 21:46:26,920 - Getting forward best hits from peptidase
+2024-12-05 21:46:33,098 - Getting reverse best hits from peptidase
+2024-12-05 21:46:42,331 - Getting descriptions of hits from peptidase
+2024-12-05 21:46:42,839 - Getting hits from pfam
+2024-12-05 21:46:52,693 - Getting hits from dbCAN
+2024-12-05 21:47:05,001 - Merging ORF annotations
+2024-12-05 21:48:06,878 - Annotating Roseovarius_sp_217_GCF_000152845.1
+2024-12-05 21:48:41,236 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 21:48:50,806 - Getting hits from kofam
+2024-12-05 22:11:15,679 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 22:11:15,679 - Getting forward best hits from peptidase
+2024-12-05 22:11:27,609 - Getting reverse best hits from peptidase
+2024-12-05 22:11:37,079 - Getting descriptions of hits from peptidase
+2024-12-05 22:11:37,591 - Getting hits from pfam
+2024-12-05 22:11:50,429 - Getting hits from dbCAN
+2024-12-05 22:12:11,270 - Merging ORF annotations
+2024-12-05 22:12:49,966 - Annotating Roseovarius_indicus_GCF_008728195.1
+2024-12-05 22:13:32,445 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 22:13:42,123 - Getting hits from kofam
+2024-12-05 22:42:02,230 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 22:42:02,230 - Getting forward best hits from peptidase
+2024-12-05 22:42:17,196 - Getting reverse best hits from peptidase
+2024-12-05 22:42:26,860 - Getting descriptions of hits from peptidase
+2024-12-05 22:42:27,560 - Getting hits from pfam
+2024-12-05 22:42:42,157 - Getting hits from dbCAN
+2024-12-05 22:43:08,426 - Merging ORF annotations
+2024-12-05 22:43:51,181 - Annotating Roseovarius_nanhaiticus_GCF_900156535.1
+2024-12-05 22:44:17,845 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 22:44:27,315 - Getting hits from kofam
+2024-12-05 23:04:30,533 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 23:04:30,534 - Getting forward best hits from peptidase
+2024-12-05 23:04:40,316 - Getting reverse best hits from peptidase
+2024-12-05 23:04:49,718 - Getting descriptions of hits from peptidase
+2024-12-05 23:04:50,182 - Getting hits from pfam
+2024-12-05 23:05:01,906 - Getting hits from dbCAN
+2024-12-05 23:05:19,900 - Merging ORF annotations
+2024-12-05 23:06:04,679 - Annotating Roseovarius_mucosus_DSM_17069_GCF_000768555.3
+2024-12-05 23:06:37,725 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 23:06:47,314 - Getting hits from kofam
+2024-12-05 23:27:42,476 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 23:27:42,477 - Getting forward best hits from peptidase
+2024-12-05 23:27:53,802 - Getting reverse best hits from peptidase
+2024-12-05 23:28:03,208 - Getting descriptions of hits from peptidase
+2024-12-05 23:28:03,600 - Getting hits from pfam
+2024-12-05 23:28:15,979 - Getting hits from dbCAN
+2024-12-05 23:28:35,425 - Merging ORF annotations
+2024-12-05 23:29:20,381 - Annotating Polycyclovorans_algicola_TG408_PolalgTG
+2024-12-05 23:29:33,612 - Turning genes from prodigal to mmseqs2 db
+2024-12-05 23:29:43,060 - Getting hits from kofam
+2024-12-05 23:46:14,508 - One of your requested annotation databases is missing. If you did not specify KEGG database, distillate will be of limited use. If no CAMPER source was provided (as of DRAM v1.5.0, it is still not automatically included), and you want to annotate with CAMPER - see instructions on GitHub for downloading if you would like to run this tool as a standalone: https://github.com/WrightonLabCSU/CAMPER.
+2024-12-05 23:46:14,508 - Getting forward best hits from peptidase
+2024-12-05 23:46:20,445 - Getting reverse best hits from peptidase
+2024-12-05 23:46:29,739 - Getting descriptions of hits from peptidase
+2024-12-05 23:46:30,315 - Getting hits from pfam
+2024-12-05 23:46:40,130 - Getting hits from dbCAN
+2024-12-05 23:46:51,976 - Merging ORF annotations
+2024-12-05 23:47:08,840 - Annotations complete, processing annotations
+2024-12-05 23:47:22,343 - Completed annotations

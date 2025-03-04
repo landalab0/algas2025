@@ -1,0 +1,33 @@
+genome	number of scaffolds	5S rRNA	16S rRNA	23S rRNA	tRNA count
+Algiphilus_aromaticivorans_DG1253_APAlg	2	Algiphilus_aromaticivorans_DG1253_APAlg_APAlg_Scaffold_7180000000006|quiver (3165641, 3165752)	Algiphilus_aromaticivorans_DG1253_APAlg_APAlg_Scaffold_7180000000006|quiver (3169173, 3170706)	Algiphilus_aromaticivorans_DG1253_APAlg_APAlg_Scaffold_7180000000006|quiver (3165851, 3168730)	47
+Algiphilus_sp_SW459_GCF_023145115.1	60	Algiphilus_sp_SW459_GCF_023145115.1_NZ_JAGLEJ010000052.1 (265, 376)			47
+Arenibacter_algicola_GCF_002234495.1	4	6 present	6 present	6 present	96
+Arenibacter_algicola_GCF_006789585.1	2	6 present	6 present	6 present	88
+Arenibacter_algicola_GCF_018860365.1	31	Arenibacter_algicola_GCF_018860365.1_NZ_JAHKPO010000012.1 (8, 115)	Arenibacter_algicola_GCF_018860365.1_NZ_JAHKPO010000012.1 (3909, 5429)	Arenibacter_algicola_GCF_018860365.1_NZ_JAHKPO010000012.1 (367, 3189)	38
+Arenibacter_algicola_TG409_APAre	3	3 present	3 present	3 present	46
+Arenibacter_echinorum_GCF_003259375.1	46	2 present	2 present	2 present	78
+Arenibacter_sp_NBRC_GCF_001748465.2	198	6 present	2 present	2 present	82
+Halomonas_alkaliantarctica_GCF_029854215.1	2	12 present	12 present	12 present	120
+Halomonas_hibernica_GCF_013183775.1	42		Halomonas_hibernica_GCF_013183775.1_NZ_VIFN01000035.1 (54, 1581)	Halomonas_hibernica_GCF_013183775.1_NZ_VIFN01000032.1 (40, 2929)	60
+Halomonas_sp._TG39a_APHal	2	7 present	6 present	7 present	64
+Halomonas_ventosae_GCF_002257525.1	4	6 present	6 present	6 present	64
+Halomonas_ventosae_GCF_004363555.1	98	6 present	2 present	2 present	120
+Marinobacter_algicola_DG893_GCF_000170835.1	202	6 present	2 present	2 present	94
+Marinobacter_salarius_GCF_000831005.1	1	Marinobacter_salarius_GCF_000831005.1_CP007152.1 (4529541, 4529651)	Marinobacter_salarius_GCF_000831005.1_CP007152.1 (4533363, 4534896)	Marinobacter_salarius_GCF_000831005.1_CP007152.1 (4529756, 4532644)	44
+Marinobacter_salarius_GCF_002116735.1	4	6 present	6 present	6 present	100
+Marinobacter_salarius_GCF_003986605.1	4	6 present	6 present	6 present	98
+Marinobacter_sediminicola_GCF_031157525.1	37	Marinobacter_sediminicola_GCF_031157525.1_NZ_JAVIXR010000023.1 (132, 241)	Marinobacter_sediminicola_GCF_031157525.1_NZ_JAVIXR010000025.1 (3643, 5178)	Marinobacter_sediminicola_GCF_031157525.1_NZ_JAVIXR010000025.1 (57, 2949)	47
+Marinobacter_sp_strain_MCTG268_APMar	14	3 present	3 present	3 present	51
+Marinobacter_xiaoshiensis_GCF_031631795.1	17	4 present	4 present	4 present	51
+Oceanicola_granulosus_HTCC2516_GCF_000153305.1	18	8 present	8 present	8 present	106
+Oceanicola_sp._D3_GCF_006351965.1	2	2 present	2 present	2 present	90
+Oceanicola_sp_MCTG1561a_APOce	5	2 present	2 present	2 present	50
+Polycyclovorans_algicola_TG408_PolalgTG	1	2 present	2 present	2 present	49
+Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor	1	Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor_APPor_Scaffold_7180000000004|quiver (435699, 435809)	Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor_APPor_Scaffold_7180000000004|quiver (439348, 440878)	Porticoccus_hydrocarbonoclasticus_MCTG13d_APPor_APPor_Scaffold_7180000000004|quiver (435961, 438845)	37
+Porticoccus_litoralis_GCF_030676955.1	9	Porticoccus_litoralis_GCF_030676955.1_NZ_JAUUUU010000003.1 (5351, 5461)	Porticoccus_litoralis_GCF_030676955.1_NZ_JAUUUU010000003.1 (8994, 10524)	Porticoccus_litoralis_GCF_030676955.1_NZ_JAUUUU010000003.1 (5609, 8496)	37
+Roseovarius_indicus_GCF_008728195.1	10	2 present	2 present	2 present	98
+Roseovarius_mucosus_DSM_17069_GCF_000768555.3	34	2 present	2 present	2 present	88
+Roseovarius_nanhaiticus_GCF_900156535.1	28	2 present	2 present	2 present	90
+Roseovarius_sp_217_GCF_000152845.1	12	4 present	2 present	2 present	86
+Roseovarius_sp_GCF_018066915.1	363		Roseovarius_sp_GCF_018066915.1_NZ_JAGPVV010000319.1 (1, 878)		37
+Roseovarius_sp_MCTG1562b_APRos	8	3 present	3 present	3 present	48
